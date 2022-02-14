@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tokyj515)](https://solved.ac/tokyj515)
 
 
+<br>
+<br>
+<br>
+<br>
 
-
-# skills✏️
+## skills✏️
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)](github.com/Joowon0220/TODO-List)
