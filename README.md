@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=bacee0&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=bacee0&height=180&section=footer)
 
 
 
