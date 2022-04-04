@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=fdd9d4&height=180&section=header&fontSize=50&text=🖐🏻YuJin%20Kwon🖐🏻)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fdd9d4&height=150&section=header&fontSize=50&text=🖐🏻YuJin%20Kwon🖐🏻)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyj515&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=bacee0&height=180&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=bacee0&height=150&section=footer)
 
 
 
