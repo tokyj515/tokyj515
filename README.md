@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fdd9d4&height=150&section=header&fontSize=50&text=🖐🏻YuJin%20Kwon🖐🏻)
 
 
@@ -57,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-
+</div>
 
 
 
