@@ -60,13 +60,15 @@ Here are some ideas to get you started:
 
 
 
-</div>
 
 
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=bacee0&height=150&section=footer)
 
+
+
+</div>
 
 
 
