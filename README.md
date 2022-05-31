@@ -30,22 +30,30 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## skills✏️
 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cpp&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/Joowon0220/TODO-List)
+<h2 align="center">skills✏️</h2>
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black)](github.com/Joowon0220/TODO-List)
+<p align="center">
+  
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a> &nbsp 
+
+</p>
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=compact&theme=swift)
-
 
 
 
