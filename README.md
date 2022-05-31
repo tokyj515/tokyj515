@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-A8B9CC.svg?&style=for-the-badge&logo=java&logoColor=black"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/>
