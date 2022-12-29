@@ -5,7 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YuJin%20Kwon🖐🏻">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyj515&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false">
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tokyj515">
-  
+<a href="https://nebulous-author-76b.notion.site/d6ea92e833424f8b915371cfd53b435b"><img src="https://img.shields.io/badge/Portfolio-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://nebulous-author-76b.notion.site/d6ea92e833424f8b915371cfd53b435b"/></a>
+
   
   
   
@@ -51,7 +52,8 @@
   <br>
 
 
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
   <!--<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white">-->
 
