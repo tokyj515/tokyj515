@@ -8,19 +8,18 @@
   <!--
 <a href="https://nebulous-author-76b.notion.site/d6ea92e833424f8b915371cfd53b435b"><img src="https://img.shields.io/badge/Portfolio-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=white&link=https://nebulous-author-76b.notion.site/d6ea92e833424f8b915371cfd53b435b"/></a>  -->
 
-  
-  
+  <br>
+   <br>
+
   
 <!--기술 스택, 연락처, 툴 등-->
 <p>
   
-  <h2>skills✏️</h2>
-
   <!--<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp -->
   
  
-  <h3>Platforms & Language</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <h3>skills✏️</h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -44,7 +43,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
   
-  <h3>Tools</h3>
+  <h3>Tools💻</h3>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
@@ -60,7 +59,7 @@
 
 
 
-  <h3>Contact</h3>
+  <h3>Contact📪</h3>
   <a href="https://radiant515.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=Tistory&logoColor=white&link=https://radiant515.tistory.com/"/></a>  
   <a href="mailto:tokykj515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tokykj515@gmail.com"/></a>
   <a href="mailto:tokykj515@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
