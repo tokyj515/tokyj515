@@ -1,5 +1,5 @@
 <!--전체 둘러싸고 있는 div-->
-<div align=center>
+<div align=center> 
 
 <!--헤더-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YuJin%20Kwon🖐🏻">
