@@ -1,6 +1,6 @@
 <!--전체 둘러싸고 있는 div-->
 <div align=center> 
-
+    
 <!--헤더-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YuJin%20Kwon🖐🏻">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyj515&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false">
