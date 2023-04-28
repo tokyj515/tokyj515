@@ -75,8 +75,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
  
 
-<!--전체 둘러싸고 있는 div-->
+<!--전체 둘러싸고 있는    div-->
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
