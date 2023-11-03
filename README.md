@@ -1,5 +1,5 @@
-<!--전체 둘러싸고 있는 div-->
-<div align=center> 
+
+<div align=center> <!--전체 둘러싸고 있는 div-->
     
 <!--헤더-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30&text=🖐🏻YuJin%20Kwon🖐🏻">
@@ -77,27 +77,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
  
 
-<!--전체 둘러싸고 있는    div-->
-</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div> <!--전체 둘러싸고 있는    div-->
 
