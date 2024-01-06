@@ -6,19 +6,16 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftokyj515&count_bg=%23E4CEF0&title_bg=%23D1DDF2&icon=&icon_color=%23E8E5E5&title=hits&edge_flat=false">
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tokyj515">
   
-  <br>
-   <br>
+<br>
+<br>
 
-
-
-  
 <!--기술 스택, 연락처, 툴 등-->
 <p>
   
   <!--<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp -->
   
  
-  <h3>skills✏️</h3>
+  <h3>Skills✏️</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -65,7 +62,11 @@
   <a href="https://radiant515.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=Tistory&logoColor=white&link=https://radiant515.tistory.com/"/></a>  
   <a href="mailto:tokykj515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tokykj515@gmail.com"/></a>
   <a href="mailto:tokykj515@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
+
+  <h3>GitBub Stats🌟</h3>
   
+  ![YuJin Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyj515&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=compact&theme=buefy)
   
 </p>
   
