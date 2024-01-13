@@ -63,7 +63,7 @@
   <a href="mailto:tokykj515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tokykj515@gmail.com"/></a>
   <a href="mailto:tokykj515@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
 
-  <h3>GitBub Stats🌟</h3>
+  <h3>Github Stats🌟</h3>
   
   ![YuJin Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyj515&show_icons=true&theme=buefy)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=compact&theme=buefy)
