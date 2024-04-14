@@ -69,8 +69,8 @@
   <a href="mailto:tokykj515@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
 
   <h3>Github Stats🌟</h3>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tokyj515&show_icons=true&theme=buefy"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=donut&theme=buefy"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tokyj515&show_icons=true&theme=buefy"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=donut&theme=buefy"/>
   
 </p>
   
