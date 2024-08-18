@@ -73,7 +73,7 @@
 
   <h3>Github Stats🌟</h3>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tokyj515&show_icons=true&theme=buefy"/>
-<!--   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=donut&theme=buefy"/> -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyj515&layout=donut&theme=buefy"/>
   
 </p>
   
